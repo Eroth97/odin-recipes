@@ -1,0 +1,17 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: beige;
+}
+
+img{
+    height: 350px;
+    width: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.img-divisor{
+    text-align: center;
+}
